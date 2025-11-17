@@ -6,6 +6,8 @@ implementar soluções na nuvem usando os serviços da Amazon Web Services**.
 É como ser o **"arquiteto da nuvem"**: você entende o problema do negócio e cria uma arquitetura segura, escalável, eficiente e bem estruturada usando os 
 serviços da AWS.
 
+<img width="833" height="423" alt="image" src="https://github.com/user-attachments/assets/12579706-6890-4cf6-b44d-cafd9bf86a18" />
+
 ---
 
 ## 🧩 O que faz um AWS Cloud Architect?

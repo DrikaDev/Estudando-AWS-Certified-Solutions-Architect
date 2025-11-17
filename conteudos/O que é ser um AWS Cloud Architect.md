@@ -10,6 +10,31 @@ serviços da AWS.
 
 ---
 
+## 🧠 A Profundidade do Papel do Arquiteto de Nuvem
+
+Os arquitetos de nuvem dedicam seu tempo para **se atualizar constantemente** sobre os mais recentes desenvolvimentos e tendências da computação em nuvem.  
+Eles são responsáveis por **projetar arquiteturas de aplicações** e escolher as tecnologias adequadas para atender requisitos técnicos e empresariais.
+
+Para isso, precisam conhecer em detalhes as diversas opções de serviços de nuvem. Quanto maior o entendimento dos serviços, suas limitações e vantagens, melhor será a tomada de decisão sobre **quais serviços adotar para cada cenário**.
+
+Os arquitetos de nuvem também orientam as equipes por meio de:
+- **Diagramas de arquitetura**
+- **Documentação técnica**
+- **Ferramentas e boas práticas**
+
+Eles fornecem direcionamento, mas também criam espaço para que desenvolvedores inovem para atingir os objetivos do projeto.
+
+### 📌 Desafios comuns na função de arquiteto
+- Gerenciamento eficiente de recursos  
+- Otimização de custos  
+- Definição de práticas recomendadas de desempenho  
+- Garantia de confiabilidade e segurança  
+
+As responsabilidades do arquiteto de nuvem se alinham diretamente aos pilares do **AWS Well-Architected Framework**, que orienta decisões sólidas de arquitetura.  
+Essa perspectiva é a base para evoluir no papel e para avançar neste curso e na certificação.
+
+---
+
 ## 🧩 O que faz um AWS Cloud Architect?
 
 ### ✔️ 1. Desenha arquiteturas na nuvem

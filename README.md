@@ -109,5 +109,4 @@ E, se você também está estudando para a **Solutions Architect**, estou à dis
 
 > ✨ *Quer sugerir melhorias ou bater um papo? Abra uma issue ou me chame!*
 > 
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriana%20Gutierrez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri-ana-gutierrez/) [![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Conclu%C3%ADdo-success?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md)
- ![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-Em%20Desenvolvimento-orange?logo=amazonaws&logoColor=white)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriana%20Gutierrez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri-ana-gutierrez/) [![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Conclu%C3%ADdo-success?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md) ![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-Em%20Desenvolvimento-orange?logo=amazonaws&logoColor=white)

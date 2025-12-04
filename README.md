@@ -30,6 +30,8 @@
 - [Infraestrutura Global da AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/5.%20Infraestrutura%20Global%20da%20AWS.md)
 - [Princípios de Segurança: Proteção do Acesso](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/6.%20Princ%C3%ADpios%20de%20seguran%C3%A7a.md)
 - [Autenticação e Proteção de Acesso na AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/7.%20Autentica%C3%A7%C3%A3o%20e%20Prote%C3%A7%C3%A3o%20de%20Acesso%20na%20AWS.md)
+- [Autorização de Usuários na AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/8.%20Autoriza%C3%A7%C3%A3o%20de%20Usu%C3%A1rios%20na%20AWS.md)
+- [Partes de uma Política do IAM](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/9.%20Partes%20de%20uma%20Pol%C3%ADtica%20do%20IAM.md)
 
 ---
 
